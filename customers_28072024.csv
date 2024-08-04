@@ -1,6 +1,11 @@
-Index,CustomerId,FirstName,LastName,Company,City,Country,Phone1,Phone2,Email,SubscriptionDate,Website,BirthDate
-6,8aaa5d0CE9ee311,Marissa,Gamble,Cherry and Sons,Webertown,Sudan,001-645-334-5514x0786,(751)980-3163,katieallison@leonard.com,17/11/2021,http://www.kaufman.org/,13/07/1975
-7,73B22Ac8A43DD1A,Julie,Cooley,"Yu, Norman and Sharp",West Sandra,Japan,+1-675-243-7422x9177,(703)337-5903,priscilla88@stephens.info,26/03/2022,http://www.sexton-chang.com/,01/11/1980
-8,DC94CCd993D311b,Lauren,Villa,"French, Travis and Hensley",New Yolanda,Fiji,081.226.1797x647,186.540.9690x605,colehumphrey@austin-caldwell.com,14/08/2020,https://www.kerr.com/,02/02/1979
-9,9Ba746Cb790FED9,Emily,Bryant,"Moon, Strickland and Combs",East Normanchester,Seychelles,430-401-5228x35091,115-835-3840,buckyvonne@church-lutz.com,30/12/2020,http://grimes.com/,29/01/1988
-10,aAa1EDfaA70DA0c,Marie,Estrada,May Inc,Welchton,United Arab Emirates,001-648-790-9244,973-767-3611,christie44@mckenzie.biz,03/09/2020,https://www.salinas.net/,28/05/1985
+Index,CustomerId,FirstName,LastName,Company,City,Country,Phone1,Phone2,Email,SubscriptionDate,Website
+6,8aaa5d0CE9ee311,Marissa,Gamble NEW,Cherry and Sons,Webertown,Sudan,001-645-334-5514x0786,(751)980-3163,katieallison@leonard.com,2021-11-17,http://www.kaufman.org/
+7,73B22Ac8A43DD1A,Julie,Cooley,"Yu, Norman and Sharp",West Sandra NEW,Japan,+1-675-243-7422x9177,(703)337-5903,priscilla88@stephens.info,2022-03-26,http://www.sexton-chang.com/
+8,DC94CCd993D311b,Lauren,Villa,"French, Travis and Hensley",New Yolanda,Fiji,081.226.1797x647,186.540.9690x605,colehumphrey@austin-caldwellNEW.com,2020-08-14,https://www.kerr.com/
+9,9Ba746Cb790FED9,Emily,Bryant,"Moon, Strickland and Combs",East Normanchester,Seychelles,430-401-5228x35091,115-835-3840,buckyvonne@church-lutz.com,2020-12-30,http://grimes.com/
+10,aAa1EDfaA70DA0c,Marie,Estrada,May Inc,Welchton,United Arab Emirates,001-648-790-9244,973-767-3611-NEW,christie44@mckenzie.biz,2020-09-03,https://www.salinas.net/
+11,bf104C25d0BA4E1,Nichole,Cannon,Rios and Sons,West Devon,Burundi,0647787401,139.476.1068,blandry@henson-harris.biz,2021-04-26,http://www.humphrey.org/
+12,bf2fA37cbAd7dDc,Bernard,Ritter,Bradford and Sons,West Francisco,Palau,292.313.1902,(065)075-0554,tammiepope@arroyo-baldwin.com,2022-01-19,http://sellers.biz/
+13,4fa8ffcdBbf53bB,Darryl,Archer,Kerr-Cherry,Holtfurt,Uganda,(389)437-1716,092.364.7349x593,woodalejandro@skinner-sloan.biz,2022-04-18,https://www.daniels.com/
+14,aBd960429ecd363,Ryan,Li,"Hooper, Cross and Holt",Batesville,Liechtenstein,001-119-787-0125x4500,001-477-254-3645,lmassey@duke.com,2021-03-06,http://nunez.com/
+15,2a0c691Ce19C6f3,Vicki,Nunez,"Leonard, Galvan and Blackburn",Barbaraborough,Haiti,(217)474-0312,(098)195-0840x79579,zgrant@sweeney.com,2022-01-30,https://reynolds.com/
